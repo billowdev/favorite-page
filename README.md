@@ -4,7 +4,8 @@ Bookmark, website
 #### Convert JSON into gorgeous, typesafe code in any language.
 - https://quicktype.io/
 
-
+#### W3Schools is optimized for learning, testing, and training.
+- https://www.w3schools.com/
 
 
 #### Virtual Board 
