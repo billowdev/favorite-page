@@ -9,7 +9,8 @@ Bookmark, website
 
 #### Clockify is the most popular free time tracker and timesheet app for teams of all sizes.
 - https://clockify.me/
-- 
+#### WakaTime is committed to making time tracking fully automatic for every programmer.
+- https://wakatime.com/
 #### Virtual Board 
 
 - for Flowchart 
