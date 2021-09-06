@@ -15,6 +15,9 @@ Bookmark, website
 #### Framer is an all-in-one tool that helps teams design every part of the product experience. 
 - https://www.framer.com/
 
+#### LICEcap simple animated screen capture tool for Windows and OS X
+- https://github.com/justinfrankel/licecap
+
 #### Virtual Board 
 - for Flowchart 
 https://lucid.app/
