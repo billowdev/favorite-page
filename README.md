@@ -1,5 +1,7 @@
 ## Favorite-Page
 Bookmark, website
+#### Programming Notes for Professionals books
+- https://books.goalkicker.com/
 
 #### Convert JSON into gorgeous, typesafe code in any language.
 - https://quicktype.io/
