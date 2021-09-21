@@ -29,3 +29,7 @@ https://app.diagrams.net/
 
 - for Mind Map
 https://miro.com/app/
+
+
+#### 10 เคล็ดลับขั้น Advance เพื่อเขียน Python Code ให้เร็วและ Clean ขึ้น
+- https://www.techstarthailand.com/blog/detail/10-Advanced-Python-Tricks-To-Write-Faster-Cleaner-Code/1788?fbclid=IwAR1GJzNOro0fqzcJbWfBYfGmaQ6BNb-xpy4cH4gm5YzGaYLczOykLsnch5E
