@@ -42,3 +42,6 @@ https://miro.com/app/
 # Learning
 #### Analysis of Algorithm
 - https://www.youtube.com/watch?v=0J3C7xiiKE4&list=PLWPirh4EWFpFl2kIaopJOlKH2PULvpRIM
+
+#### Network - KoChaiwat
+https://web.facebook.com/chaiwat.amorn/posts/5318373428204522
