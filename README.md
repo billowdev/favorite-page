@@ -37,3 +37,8 @@ https://miro.com/app/
 #### Web hosting
 - https://www.youtube.com/user/hostatom/videos
 - https://www.hostatom.com/
+
+
+# Learning
+#### Analysis of Algorithm
+- https://www.youtube.com/watch?v=0J3C7xiiKE4&list=PLWPirh4EWFpFl2kIaopJOlKH2PULvpRIM
