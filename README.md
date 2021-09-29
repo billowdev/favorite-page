@@ -1,7 +1,7 @@
 ## Knowledge
-##### แค่เปิดเผยโค้ด ไม่ได้เรียกว่า Open Source
+##### Open Source ?
 - https://web.facebook.com/borntodev/posts/3815278685197063/
-##### https://opensource.org/
+- https://opensource.org/
 
 ## Favorite-Page
 Bookmark, website
