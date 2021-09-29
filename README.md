@@ -42,6 +42,8 @@ https://miro.com/app/
 #### Web hosting
 - https://www.youtube.com/user/hostatom/videos
 - https://www.hostatom.com/
+- https://www.hostinger.com/
+- https://www.digitalocean.com/
 
 
 # Learning
