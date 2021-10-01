@@ -52,3 +52,12 @@ https://miro.com/app/
 
 #### Network - KoChaiwat
 https://web.facebook.com/chaiwat.amorn/posts/5318373428204522
+
+#### Vector Illustrations etc...
+-  https://icons8.com/illustrations
+-  https://lukaszadam.com/illustrations
+-  https://drawkit.io/
+-  https://undraw.co/illustrations
+-  https://dribbble.com/search/free%20vector
+-  https://www.flaticon.com/
+
