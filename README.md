@@ -61,3 +61,6 @@ https://web.facebook.com/chaiwat.amorn/posts/5318373428204522
 -  https://dribbble.com/search/free%20vector
 -  https://www.flaticon.com/
 
+#### ฝึกทำโจทย์ก่อนสัมภาษณ์งาน
+- https://platform.stratascratch.com/coding
+
