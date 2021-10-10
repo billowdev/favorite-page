@@ -61,6 +61,15 @@ https://web.facebook.com/chaiwat.amorn/posts/5318373428204522
 -  https://dribbble.com/search/free%20vector
 -  https://www.flaticon.com/
 
+#### free picture
+- https://unsplash.com
+- https://pixabay.com/
+- https://www.pexels.com/
+- https://www.freepik.com/
+- https://placeholder.com/
+- https://placeimg.com/
+
+
 #### ฝึกทำโจทย์ก่อนสัมภาษณ์งาน
 - https://platform.stratascratch.com/coding
 
