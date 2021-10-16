@@ -50,6 +50,9 @@ https://miro.com/app/
 #### Analysis of Algorithm
 - https://www.youtube.com/watch?v=0J3C7xiiKE4&list=PLWPirh4EWFpFl2kIaopJOlKH2PULvpRIM
 
+#### 5 Common Server Setups For Your Web Application
+- https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application
+
 #### Network - KoChaiwat
 https://web.facebook.com/chaiwat.amorn/posts/5318373428204522
 
