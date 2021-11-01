@@ -2,6 +2,8 @@
 ##### Open Source ?
 - https://web.facebook.com/borntodev/posts/3815278685197063/
 - https://opensource.org/
+- 
+#### https://patiphannn.com/full-stack-guidelines/
 
 ## Favorite-Page
 Bookmark, website
