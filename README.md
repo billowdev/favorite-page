@@ -78,3 +78,28 @@ https://web.facebook.com/chaiwat.amorn/posts/5318373428204522
 #### ฝึกทำโจทย์ก่อนสัมภาษณ์งาน
 - https://platform.stratascratch.com/coding
 
+
+
+clickasnap
+kamua
+contentdrips
+contentrow
+mockmagic
+
+
+digitaldefynd
+free course
+https://digitaldefynd.com/
+
+ncs.io
+
+
+answersocrates
+Discover the questions people are asking on Google about almost any topic, for free.
+https://answersocrates.com/
+
+hastagstack
+
+https://hashtagstack.com/hashtag-generator
+
+kontra
