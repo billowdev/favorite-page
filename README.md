@@ -1,3 +1,6 @@
+## node in linux
+https://www.esparkinfo.com/blog/how-to-update-node-js-to-latest-version.html
+
 ## Knowledge
 ##### Open Source ?
 - https://web.facebook.com/borntodev/posts/3815278685197063/
